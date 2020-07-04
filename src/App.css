@@ -1,0 +1,69 @@
+body {
+    overflow-y: hidden;
+    color: rgb(47, 47, 47);
+}
+
+hr {
+    border: 10px solid green;
+    border-radius: 5px;
+}
+
+small{
+    padding-left: 2px;
+}
+
+.jumbotron {
+    height: 100vh;
+    background: linear-gradient(135deg, #ff5f6d 0%, #ffc371 100%);
+}
+
+
+.struct-holder {
+    background: rgb(255, 255, 255);
+    margin: 0px;
+    border-radius: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 20px;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.app-title {
+    color: rgb(47, 47, 47);
+    letter-spacing: 3px;
+    padding-top: 10px;
+}
+
+.todo-holder {
+    text-align: left;
+    margin-top: 30px;
+}
+
+.todo-list {
+    padding: 20px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+}
+
+.todo-list-container {
+    background: wheat;
+    padding-left: 20px;
+    margin-top: 40px;
+    padding-right: 0px;
+}
+
+input.form-check-input {
+    transform : scale(1.7);
+}
+
+h6 {
+    margin-left: 10px;
+}
+
+.todo-list-text {
+    padding-top: 7px;
+}
+
+ul {
+    list-style: none;
+}
